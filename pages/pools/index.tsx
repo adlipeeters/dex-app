@@ -3,7 +3,7 @@ import LiquidityPools from '@/components/LiquidityPools';
 
 const PoolsPage = () => {
     return (
-        <div>
+        <div className='px-5'>
             <LiquidityPools />
         </div>
     )

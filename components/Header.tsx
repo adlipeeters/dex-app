@@ -39,7 +39,7 @@ export const Header = () => {
                         ) : null}
                     </ul>
                 </div>
-                <div className="py-2 px-4 flex justify-center col-span-6 md:justify-end md:col-span-2">
+                <div className="hidden md:flex py-2 px-4 justify-center col-span-6 md:justify-end md:col-span-2">
                     <ConnectButton />
                 </div>
             </div>

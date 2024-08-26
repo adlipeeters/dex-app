@@ -3,7 +3,7 @@ import React from 'react'
 
 const SwapPage = () => {
   return (
-    <div>
+    <div className='px-5'>
       <Swap />
     </div>
   )
