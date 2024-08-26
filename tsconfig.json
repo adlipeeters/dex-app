@@ -13,7 +13,8 @@
     "jsx": "preserve",
     "incremental": true,
     "paths": {
-      "@/*": ["./*"]
+      "@/*": ["./*"],
+      "@web3uikit/web3": ["./node_modules/@web3uikit/web3/dist/index.es"],
     }
   },
   "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx"],
